@@ -1,4 +1,4 @@
-# Cloudflare OS: An AI productivity environment
+Cloudflare OS: An AI productivity environment
 
 Cloudflare OS is an "operating system" for AI productivity originally developed for use inside Cloudflare. A large portion of Cloudflare's workforce -- from engineering to sales and everything in between -- uses Cloudflare OS every day to help them do their jobs.
 
